@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa931c1-431d-4d38-8b80-f3ec85df7e20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="baa931c1-431d-4d38-8b80-f3ec85df7e20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +64,8 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/ykkim/github/lecture-DB-project",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "cb3530825d1aac034c554f01fe594f5f"
   }
 }]]></component>
   <component name="RunManager" selected="Spring Boot.ApiApplication">
@@ -110,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704029560000</updated>
       <workItem from="1704029564281" duration="3225000" />
-      <workItem from="1705205493464" duration="10362000" />
+      <workItem from="1705205493464" duration="11604000" />
+      <workItem from="1705840453249" duration="916000" />
     </task>
     <servers />
   </component>
